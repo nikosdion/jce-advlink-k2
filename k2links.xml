@@ -2,7 +2,7 @@
 <install version="2.1" type="extension" extension="k2links" folder="links" method="upgrade" core="0">
 	<name>K2 Links for Advanced Link</name>
 	<version>2.1</version>
-	<creationDate>3 September 2011</creationDate>
+	<creationDate>7 September 2011</creationDate>
 	<author>Nicholas K. Dionysopoulos</author>
 	<authorEmail>nicholas@dionysopoulos.me</authorEmail>
 	<authorUrl>http://www.dionysopoulos.me</authorUrl>

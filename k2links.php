@@ -1,17 +1,18 @@
 <?php
 /**
-* @copyright    Copyright (C) 2009 Nicholas K. Dionysopoulos. All rights reserved.
-* @author		Nicholas K. Dionysopoulos
-* @license      GNU/GPL v.2 or later
-* K2Links is free software. This version may have been modified pursuant
-* to the GNU General Public License, and as distributed it includes or
-* is derivative of works licensed under the GNU General Public License or
-* other free or open source software licenses.
-*
-* Based on "joomlalinks" found in JCE's core distribution. Modified by Nicholas K. Dionysopoulos
-* to support JoomlaWork's K2
-*/
-// no direct access
+ * @copyright    Copyright (C) 2009 Nicholas K. Dionysopoulos. All rights reserved.
+ * @author		Nicholas K. Dionysopoulos
+ * @license      GNU/GPL v.3 or later
+ * 
+ * K2Links is free software. This version may have been modified pursuant
+ * to the GNU General Public License, and as distributed it includes or
+ * is derivative of works licensed under the GNU General Public License or
+ * other free or open source software licenses.
+ *
+ * Based on "joomlalinks" found in JCE's core distribution. Modified by Nicholas
+ * K. Dionysopoulos to support JoomlaWorks' K2
+ */
+
 defined( '_WF_EXT' ) or die( 'ERROR_403' );
 
 class WFLinkBrowser_K2links extends JObject

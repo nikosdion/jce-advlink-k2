@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <install version="2.1" type="extension" extension="k2links" folder="links" method="upgrade" core="0">
 	<name>K2 Links for Advanced Link</name>
-	<version>2.1</version>
-	<creationDate>7 September 2011</creationDate>
+	<version>2.2</version>
+	<creationDate>31 January 2013</creationDate>
 	<author>Nicholas K. Dionysopoulos</author>
 	<authorEmail>nicholas@dionysopoulos.me</authorEmail>
 	<authorUrl>http://www.dionysopoulos.me</authorUrl>
-	<copyright>Copyright (C) 2009 - 2011 Nicholas K. Dionysopoulos. All Rights Reserved.</copyright>
+	<copyright>Copyright (C) 2009 - 2013 Nicholas K. Dionysopoulos. All Rights Reserved.</copyright>
 	<license>GNU GPL v.3 or later</license>
 	<description>K2 Links for JCE 2.0</description>
 	<files>

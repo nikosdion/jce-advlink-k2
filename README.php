@@ -50,12 +50,16 @@ report, helps me improve this software.
 CHANGELOG
 ================================================================================
 
+Version 2.2
+--------------------------------------------------------------------------------
+# Would not work under Joomla! 3.0 due to changes in Joomla! Platform
+
 Version 2.1
 --------------------------------------------------------------------------------
 ! Now runs under Joomla! 1.5 and 1.7 (JCE 2.0.x required). K2 2.5 or later
   required for operation under Joomla! 1.7 or later.
 # Would not run under Joomla! 1.7 and K2 2.5
-# Users had access to all content items, irresspective of their access level
+# Users had access to all content items, irrespective of their access level
 
 Version 2.0
 --------------------------------------------------------------------------------

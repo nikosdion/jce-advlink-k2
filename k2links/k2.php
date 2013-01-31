@@ -82,7 +82,7 @@ class K2linksK2 extends JObject
 		
 		$user	=& JFactory::getUser();
 		if(version_compare(JVERSION,'1.6.0','ge')) {
-			$query .= ' AND `access` IN ('.implode(',', $user->authorisedLevels()).')';
+			$query .= ' AND `access` IN ('.implode(',', $user->getAuthorisedViewLevels()).')';
 		} else {
 			$query .= "\nAND `access` <=".(int) $user->get('aid');
 		}
@@ -106,7 +106,7 @@ class K2linksK2 extends JObject
 		
 		$user	=& JFactory::getUser();
 		if(version_compare(JVERSION,'1.6.0','ge')) {
-			$query .= ' AND `access` IN ('.implode(',', $user->authorisedLevels()).')';
+			$query .= ' AND `access` IN ('.implode(',', $user->getAuthorisedViewLevels()).')';
 		} else {
 			$query .= "\nAND `access` <=".(int) $user->get('aid');
 		}
